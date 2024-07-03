@@ -1,6 +1,6 @@
-//your JS code here. If required.
-let functionName=function (){
-	
-alert('alert("functionName");');
+
+function printFunctionName() {
+    alert(printFunctionName.name);
 }
-functionName();
+printFunctionName();
+
